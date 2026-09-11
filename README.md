@@ -48,7 +48,7 @@ The dashboard also raises important questions around patient flow, waiting times
 
 ## 📷 Dashboard Preview
 
-![Hospital Analytics Dashboard](Hospital analytic dashboard.png)
+![Hospital Analytics Dashboard](Hospital%20analytic%20dashboard.png)
 
 ## 👩🏽‍💻 Skills Demonstrated
 
