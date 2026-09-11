@@ -48,7 +48,7 @@ The dashboard also raises important questions around patient flow, waiting times
 
 ## 📷 Dashboard Preview
 
-*A screenshot of the Power BI dashboard will be added here.*
+![Hospital Analytics Dashboard](Hospital analytic dashboard.png)
 
 ## 👩🏽‍💻 Skills Demonstrated
 
